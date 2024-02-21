@@ -1,0 +1,2 @@
+## Built a snake game developed in Python with the pygame library.
+### Classic snake game where the snake eats the apple and increases size. If the snake hits itself or the game's boundries it will die.
